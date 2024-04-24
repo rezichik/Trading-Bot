@@ -17,7 +17,7 @@ active: Boolean indicating if the bot is active or not.
 strategy: Placeholder for the bot's trading strategy.
 prices: List to store historical prices of the cryptocurrency.
 
-Methods
+Methods:
 activate(): Activates the bot.
 deactivate(): Deactivates the bot.
 record_price(price): Records the current price of the cryptocurrency.
