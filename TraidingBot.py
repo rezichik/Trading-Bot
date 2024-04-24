@@ -6,7 +6,7 @@ class TradingBot:
         self.name = name
         self.active = active
         self.strategy = strategy
-        self.prices = []  # List to store historical prices
+        self.prices = []
 
     def activate(self):
         self.active = True
