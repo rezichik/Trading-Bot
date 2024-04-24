@@ -1,7 +1,7 @@
 Advanced Crypto Trading Bot
 
 Overview:
-This Python application implements a trading bot with an advanced trading strategy based on moving average crossover.
+ This Python application implements a trading bot with an advanced trading strategy based on moving average crossover.
 The bot calculates short-term and long-term moving averages of cryptocurrency prices to make buy, sell, or hold decisions.
 
 Run the main.py file using Python to demonstrate the bot's functionality.
